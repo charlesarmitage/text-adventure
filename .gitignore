@@ -22,16 +22,16 @@ local.properties
 .project
 
 # IDEA files & directories
-.idea/workspace.xml
-bin
-out
-tmp
+text-adventure/.idea/workspace.xml
+bin/
+out/
+tmp/
 local.properties
 
 # configured files for each app version
-/AndroidManifest.xml
-/res/
-/src/main/java/com/chewielouie/textadventure
-/src/test/java/com/chewielouie/textadventure
-/src/main/java/com/chewielouie/textadventure2
-/src/test/java/com/chewielouie/textadventure2
+text-adventure/AndroidManifest.xml
+text-adventure/res/
+text-adventure/src/main/java/com/chewielouie/textadventure
+text-adventure/src/test/java/com/chewielouie/textadventure
+text-adventure/src/main/java/com/chewielouie/textadventure2
+text-adventure/src/test/java/com/chewielouie/textadventure2
